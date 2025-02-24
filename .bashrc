@@ -112,5 +112,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-cd ~
+cd ~/weatherstation
 start.sh
+cd ~
